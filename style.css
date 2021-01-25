@@ -1,0 +1,58 @@
+.header {
+    background-color: darkgray; 
+    color:white;
+   
+}
+
+h1 {
+    font-weight: 450 !important;
+    text-align:center; 
+    
+}
+
+.icon {
+    background-color:lightskyblue;
+    font-size: 25px;
+
+}
+
+#citySearchContainer {
+    background-color: #f9f6f5;
+    margin-top: none;;
+}
+
+h2{
+    font-size: 35px;
+}
+
+p {
+    font-size: 25px;;
+}
+
+span {
+    font-weight:inherit;
+}
+
+.card-text {
+    font-size: 20px;
+}
+
+.historyButton { 
+    font-size: 20px;
+}
+
+.card {
+    background-color: lightsteelblue;
+    width: 140px !important  ;
+}
+
+.clearButton {
+    position:absolute;
+    bottom:0px;
+    width:150px;
+}
+
+.searchBar {
+    display:flex;
+    justify-content: space-between;
+}
